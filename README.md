@@ -1,2 +1,11 @@
-# mini-unit-converter
-A simple unit converter project
+# Unit Converter
+
+Convert between different units of measurement.
+
+A project by Drew
+
+## Usage
+
+```
+python converter.py
+```
